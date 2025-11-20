@@ -1,0 +1,48 @@
+Analysis for Himalayan House_reviews.json
+
+TASTE
+Sentiment: positive
+Keywords / phrases:
+delicious authentic indian food
+some delicious flavors
+great flavors
+large vegetarian selection
+
+SERVICE
+Sentiment: positive
+Keywords / phrases:
+cheese naan
+great service
+vegetarian menu
+parking parking options
+
+ENVIRONMENT
+Sentiment: positive
+Keywords / phrases:
+quiet place
+parking parking options
+parking space
+recommended dishes dietary restrictions
+
+WAITING_TIME
+Sentiment: neutral
+Keywords / phrases:
+tiny quarter
+no wait
+a long wait
+free parking lot kid-friendliness
+
+PRICE
+Sentiment: positive
+Keywords / phrases:
+garlic naan recommendation
+tasty, good portion
+one item
+meal type dinner price
+
+DISH HIGHLIGHTS
+chicken biryani
+chicken
+chicken masala medium
+veggie noodle soup
+himalayan noodles

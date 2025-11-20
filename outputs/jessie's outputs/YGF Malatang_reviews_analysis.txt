@@ -1,0 +1,48 @@
+Analysis for YGF Malatang_reviews.json
+
+TASTE
+Sentiment: positive
+Keywords / phrases:
+fresh ingredients
+a broth type
+fresh food
+big variety
+
+SERVICE
+Sentiment: positive
+Keywords / phrases:
+nice service
+parking parking options
+a very unpleasant interaction
+male staff
+
+ENVIRONMENT
+Sentiment: positive
+Keywords / phrases:
+paid street parking
+group size
+parking parking options
+indoor dining
+
+WAITING_TIME
+Sentiment: neutral
+Keywords / phrases:
+haphazard line
+last night
+no line
+waited minutes
+
+PRICE
+Sentiment: neutral
+Keywords / phrases:
+good bro
+meal type dinner price
+food: reservation
+yang guofu
+
+DISH HIGHLIGHTS
+malatang
+beef broth
+great malatang
+a per pound broth or hot pot restaurant
+different noodle types

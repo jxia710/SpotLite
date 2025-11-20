@@ -1,0 +1,45 @@
+Analysis for Monarca Pasta & Grill_reviews.json
+
+TASTE
+Sentiment: positive
+Keywords / phrases:
+balanced sauce
+everyone's palate
+each item
+grilled meats
+
+SERVICE
+Sentiment: positive
+Keywords / phrases:
+excellent food
+parking parking options
+indoor dining area
+friendly staff service
+
+ENVIRONMENT
+Sentiment: positive
+Keywords / phrases:
+vegetarian dishes
+paid parking lot
+good place
+free parking lot
+
+WAITING_TIME
+Sentiment: neutral
+Keywords / phrases:
+  (no strong keywords found)
+
+PRICE
+Sentiment: positive
+Keywords / phrases:
+reasonable price
+a high-quality meal
+amazing 🤩 food
+apple pie
+
+DISH HIGHLIGHTS
+monarca pasta
+pizza
+chicken
+chicken fettuccine
+pasta primavera

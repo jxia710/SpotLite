@@ -1,0 +1,48 @@
+Analysis for Grand Food Depot_reviews.json
+
+TASTE
+Sentiment: positive
+Keywords / phrases:
+organic ingredients
+a selection
+delicious cookies
+fresh produce
+
+SERVICE
+Sentiment: positive
+Keywords / phrases:
+amazing service
+parking parking options
+vegetarian menu
+recommended dishes
+
+ENVIRONMENT
+Sentiment: positive
+Keywords / phrases:
+their score
+this place great atmosphere
+free street
+recommended dishes parking space
+
+WAITING_TIME
+Sentiment: positive
+Keywords / phrases:
+grand food
+last minute
+different places
+no wait
+
+PRICE
+Sentiment: positive
+Keywords / phrases:
+vegetarian dishes vegetarian options
+any parking
+food: recommended dishes
+priced and terrible food
+
+DISH HIGHLIGHTS
+fries
+detroit pizza depot
+shrimp tacos
+fried chicken
+great pizza

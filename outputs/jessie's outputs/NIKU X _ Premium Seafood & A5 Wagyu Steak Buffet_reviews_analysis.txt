@@ -1,0 +1,48 @@
+Analysis for NIKU X _ Premium Seafood & A5 Wagyu Steak Buffet_reviews.json
+
+TASTE
+Sentiment: positive
+Keywords / phrases:
+great recommendations
+each piece
+our meal
+niku x
+
+SERVICE
+Sentiment: positive
+Keywords / phrases:
+parking parking options
+exceptional service
+wagyu fried rice
+king crab
+
+ENVIRONMENT
+Sentiment: positive
+Keywords / phrases:
+amazing atmosphere
+a lot
+special occasion
+indoor dining area
+
+WAITING_TIME
+Sentiment: neutral
+Keywords / phrases:
+more minutes
+fast food
+vegetarian options
+private dining
+
+PRICE
+Sentiment: positive
+Keywords / phrases:
+meal type dinner price
+wagyu fried rice
+oxtail pot stickers
+food: recommended dishes
+
+DISH HIGHLIGHTS
+premium seafood
+sashimi
+lobster
+beef
+lobster tails

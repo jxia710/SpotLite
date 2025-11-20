@@ -1,0 +1,48 @@
+Analysis for Holbox_reviews.json
+
+TASTE
+Sentiment: positive
+Keywords / phrases:
+free street
+every bite
+fresh ingredients
+parking parking options
+
+SERVICE
+Sentiment: positive
+Keywords / phrases:
+excellent staff
+parking parking options
+type lunch food
+amazing service
+
+ENVIRONMENT
+Sentiment: positive
+Keywords / phrases:
+counter seating
+parking space
+outdoor patio / terrace parking space
+parking parking options
+
+WAITING_TIME
+Sentiment: positive
+Keywords / phrases:
+long wait
+about minutes
+long line
+free parking
+
+PRICE
+Sentiment: positive
+Keywords / phrases:
+special offers
+food: reservation
+meal type lunch price
+indoor dining area
+
+DISH HIGHLIGHTS
+ceviche
+sopa de mariscos
+tacos
+fish
+smoked kanpachi taco
